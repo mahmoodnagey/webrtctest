@@ -10,5 +10,3 @@ Steps to run
 1. Clone the repository
 2. you need to run `npm install`
 3. Run `node index.js`
-
-There is a second branch to this repository that contains the upgraded version of this video chat application with added buttons like mute, hide camera and leave room.
